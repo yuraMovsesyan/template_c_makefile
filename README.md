@@ -2,6 +2,8 @@
 
 build `make`
 
+test `make test`
+
 run `make run`
 
 clean `make clean`
