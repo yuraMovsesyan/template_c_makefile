@@ -40,7 +40,7 @@ build:
 test: $(TESTTARGET)
 	./$(TESTTARGET)
 
-run:
+run: all
 	./$(TARGET)
 
 clean:
